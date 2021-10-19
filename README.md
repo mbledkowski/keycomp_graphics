@@ -2,7 +2,7 @@
 
 Repository with graphics created during development of [keycomp.co](https://github.com/mbledkowski/keycomp).
 
-Graphics are created using Affinity Designer/Affinity Photo which are propriatary and paid programs, although you can use 10-day free trial version and export them to a desire format.
+Graphics are created using Affinity Designer/Affinity Photo which are a propriatary and paid programs, although you can use 10-day free trial version and export them to a desire format.
 
 ## License
 
