@@ -1,12 +1,12 @@
 # keycomp graphics
 
-Repository with graphics created during development of [keycomp.co](https://github.com/mbledkowski/keycomp).
+Repository with graphics created during the development of [keycomp.co](https://github.com/mbledkowski/keycomp).
 
 Graphics are created using Affinity Designer/Affinity Photo which are a propriatary and paid programs, although you can use 10-day free trial version and export them to a desire format.
 
 ## License
 
-All graphics are licensed under [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html), EXCEPT for `keycomp logo.afdesign`, logotypes of `keycomp` included in other files, and graphics mentioned below that are not a creation of mine, and are used for a reference/inspiration only.
+All graphics are licensed under [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html); EXCEPT for `keycomp logo.afdesign`, logotypes of `keycomp` included in other files, and graphics mentioned below that are not a creation of mine, and are used for a reference/inspiration only.
 
 ### Graphics that I do not own rights to
 - `keycomp artboards.afdesign`, `keycomp artboards2.afdesign` =>
